@@ -150,3 +150,10 @@ Puedes ver la inversión total por año y proyecto, así como la evolución anua
 6. Selecciona un proyecto para ver la tendencia de inversiones a lo largo del tiempo.
 7. Consulta los indicadores clave de desempeño en la barra lateral.
 """)
+
+# Aviso de derechos de autor
+st.sidebar.markdown("""
+    ---
+    © 2024. Todos los derechos reservados.
+    Creado por jahoperi
+""")   
